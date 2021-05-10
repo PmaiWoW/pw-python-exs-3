@@ -1,0 +1,16 @@
+{
+    "nome": "Pedro",
+    "linguas": [
+        "Portugues",
+        "Espanhol"
+    ],
+    "casado": true,
+    "esposa": "Ines",
+    "idade": 32,
+    "filhos": {
+        "Afonso": 12,
+        "Beatriz": 10,
+        "Joao": 7,
+        "Diniz": 4
+    }
+}
