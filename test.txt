@@ -1,0 +1,3 @@
+Name:Sigrid;Classes:Knight,Draconic;Age:27
+Name:Ulfred;Classes:Cavalry,Archer,Pikeman;Age:28
+Name:Geto;Classes:Sage,Warlock;Age:150
